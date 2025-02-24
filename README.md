@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Sou da Zona Sul de São Paulo<br><br>- 🔭 Sou Jovem Aprendiz de RH<br>- 📚 Estudo ADS na FATEC<br>- ⚡ Amo livros, jogos e ouvir álbuns!!</p>
+<p align="left">Sou da Zona Sul de São Paulo<br><br>- 🔭 Sou Jovem Aprendiz de RH<br>- 📚 Estudo ADS na FATEC<br>- ⚡ Amo livros, jogos e ouvir álbuns!! (Sim, sou fã de Mother 3 me processa)</p>
 
 ###
 
