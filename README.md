@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=doismileseis.doismileseis&left_color=darkred&right_color=darkgray&left_text=Visitantes"  />
-</div>
-
 ###
 
 <h1 align="left">Opa!! Sou Gustavo, estudante de ADS 🖥️</h1>
@@ -55,6 +51,13 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=doismileseis&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 <img align="right" height="225" src="https://i.redd.it/gdae6zlci5v91.gif"  />
+</div>
+
+</br>
+</br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=doismileseis.doismileseis&left_color=darkred&right_color=darkgray&left_text=Visitantes"  />
 </div>
 
 ###
