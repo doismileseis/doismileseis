@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Opa!! Sou Gustavo, estudante de ADS 🖥️</h1>
+<h1 align="left">Opa!! Sou Gustavo, estudante de ADS 🖥️</h1>
 
 ###
 
